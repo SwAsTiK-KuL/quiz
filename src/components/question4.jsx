@@ -17,7 +17,7 @@ const Question4 = () => {
 
       <div className="flex justify-center mt-6 ">
         <div className="flex-grow-0 text-center mt-2 text-xs border border-transparent hover:border-yellow-500 hover:border-solid rounded p-4 inline-flex flex-col items-center mx-2 cursor-pointer">
-          <img src='./src/assets/introduction.png' className='h-8' alt="introductory-icon" />
+          <img src='/assets/introduction.png' className='h-8' alt="introductory-icon" />
           <div>
             <span className='block'>Arithmetic</span>
             <span className='block text-gray-300'>Introductory</span>
@@ -25,7 +25,7 @@ const Question4 = () => {
         </div>
 
         <div className="flex-grow-0 text-center mt-2 text-xs border border-transparent hover:border-yellow-500 hover:border-solid rounded p-4 inline-flex flex-col items-center mx-2 cursor-pointer">
-          <img src='./src/assets/foundational.png' className='h-8' alt="foundational-icon" />
+          <img src='/assets/foundational.png' className='h-8' alt="foundational-icon" />
           <div>
             <span className='block'>Basic Algebra</span>
             <span className='block text-gray-300'>Foundational</span>
@@ -33,7 +33,7 @@ const Question4 = () => {
         </div>
 
         <div className="flex-grow-0 text-center mt-2 text-xs border border-transparent hover:border-yellow-500 hover:border-solid rounded p-4 inline-flex flex-col items-center mx-2 cursor-pointer">
-          <img src='./src/assets/intermediate.png' className='h-8' alt="intermediate-icon" />
+          <img src='/assets/intermediate.png' className='h-8' alt="intermediate-icon" />
           <div>
             <span className='block'>Intermediate Algebra</span>
             <span className='block text-gray-300'>Intermediate</span>
@@ -41,7 +41,7 @@ const Question4 = () => {
         </div>
 
         <div className="flex-grow-0 text-center mt-2 text-xs border border-transparent hover:border-yellow-500 hover:border-solid rounded p-4 inline-flex flex-col items-center mx-2 cursor-pointer">
-          <img src='./src/assets/calculus.png' className='h-8' alt="calculus-icon" />
+          <img src='/assets/calculus.png' className='h-8' alt="calculus-icon" />
           <div>
             <span className='block'>Calculus</span>
             <span className='block text-gray-300'>Advanced</span>

@@ -17,32 +17,32 @@ function Question1() {
       <div className='text-center mt-2 text-xs'> This Will Help You Personalise Experience </div>
       
       <div className="w-96 mt-12 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer"> 
-        <img src='./src/assets/student.png' className='h-6 mr-2'/>
+        <img src='/assets/student.png' className='h-6 mr-2'/>
         <span className='font-medium '>Student Or Soon To Be Enrolled</span>  
       </div>
 
       <div className='w-96 mt-2 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer'> 
-        <img src='./src/assets/preofessonal.png' className='h-6 '/> 
+        <img src='/assets/preofessonal.png' className='h-6 '/> 
         <span className='font-medium'>Professional Pursuing A Career</span>
       </div>
 
       <div className='w-96 mt-2 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer'> 
-        <img src='./src/assets/parents.png' className='h-6 '/>
+        <img src='/assets/parents.png' className='h-6 '/>
         <span className='font-medium'>Parent of Local-School-Age-Child</span>
       </div>
 
       <div className='w-96 mt-2 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer'>
-        <img src='./src/assets/lifelong_learner.png' className='h-6 mr-4'/> 
+        <img src='/assets/lifelong_learner.png' className='h-6 mr-4'/> 
         <span className='font-medium'> LifeLong Learning Parent</span>
       </div>
 
       <div className='w-96 mt-2 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer'> 
-        <img src='./src/assets/teacher.png' className='h-6 mr-5'/>
+        <img src='/assets/teacher.png' className='h-6 mr-5'/>
         <span className='font-medium'> Teacher </span>
       </div>
 
       <div className='w-96 mt-2 font-normal px-4 py-3 border mr-20 text-xs flex items-center hover:bg-slate-300 cursor-pointer'>
-        <img src='./src/assets/others.png' className='h-6 mr-4'/>
+        <img src='/assets/others.png' className='h-6 mr-4'/>
         <span className='font-medium'> Other </span>
       </div>
 

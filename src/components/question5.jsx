@@ -18,7 +18,7 @@ const Question5 = () => {
         </div>
 
         <div className="flex">
-          <img src='./src/assets/dance.png' className='h-56 mt-10 ml-24' alt="dance-icon" />
+          <img src='/assets/dance.png' className='h-56 mt-10 ml-24' alt="dance-icon" />
           <div className='text-center mt-2 text-xs'></div>
 
           <div className="ml-28 mt-8 font-normal px-2 py-3 border mr-8 text-justify text-xs">

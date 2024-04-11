@@ -24,7 +24,7 @@ export const LearningPath = () => {
             <span className="font-semibold">Foundational Math</span>
             <p>Build Your Foundational Skills In Algebra, Geometry, And Probability.</p>
           </div>
-          <img src='./src/assets/machine.png' className="h-32" alt="machine" />
+          <img src='/assets/machine.png' className="h-32" alt="machine" />
         </div>
 
         <div className="ml-4 mr-4 p-4 border rounded text-xs max-w-xs flex mt-10 items-start">
@@ -32,7 +32,7 @@ export const LearningPath = () => {
             <span className="font-semibold">Mathematical Thinking</span>
             <p>Develop Your Critical Thinking And Problem-Solving Skills.</p>
           </div>
-          <img src='./src/assets/machine.png' className="h-32" alt="machine" />
+          <img src='/assets/machine.png' className="h-32" alt="machine" />
         </div>
       </div>
     </div>

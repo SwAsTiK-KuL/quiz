@@ -12,7 +12,7 @@ const Question3 = () => {
       </div>
 
       <div className="flex items-center">
-        <img src='./src/assets/pulley.png' className=" flex h-64 mt-5 ml-20" alt="pulley-icon" />
+        <img src='/assets/pulley.png' className=" flex h-64 mt-5 ml-20" alt="pulley-icon" />
         <div className="ml-10">
           <div className="flex items-center justify-center font-bold mb-10 mr-20 ml-10">
             You're In The Right Place
