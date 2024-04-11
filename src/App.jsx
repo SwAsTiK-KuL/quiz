@@ -13,7 +13,7 @@ function App() {
     <div>
         <Routes>
           {/* <Route index element={<Question1 />} /> */}
-          <Route path="/question1" element={<Question1 />} />
+          <Route path="/" element={<Question1 />} />
           <Route path="/question2" element={<Question2 />} />
           <Route path="/question3" element={<Question3 />} />
           <Route path="/question4" element={<Question4 />} />
